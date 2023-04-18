@@ -1,5 +1,5 @@
 # Predict Student Performance from Game Play using TensorFlow Decision Forest
-![TFDF](TFDF Logo.png)
+<img src="TFDF Logo.png" alt="TFDF Logo" style="margin:auto;">
 The goal of this competition is to predict student performance during game-based learning in real-time. You'll develop a model trained on one of the largest open datasets of game logs.
 
 ## Table of Contents
@@ -17,12 +17,16 @@ To get started with this project, follow the steps below:
 
 1. Clone the repository to your local machine using the following command:
 
-```git clone https://github.com/yourusername/predict-student-performance.git```
+```bash
+git clone https://github.com/yourusername/predict-student-performance.git
+```
 
 
 2. Install the necessary dependencies. This project requires [TensorFlow Decision Forest](https://www.tensorflow.org/decision_forests), which can be installed using the following command:
 
-```pip install tensorflow_decision_forests```
+```bash
+pip install tensorflow_decision_forests
+```
 
 
 3. Download the dataset from the provided source and place it in the appropriate directory in the project repository.
